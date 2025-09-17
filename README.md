@@ -1,5 +1,5 @@
 # Understanding-Customer-Trends-in-Fintech-with-Power-BI
-# 📊 Fintech Startup Customer Performance Dashboard: Trends Analysis  
+# 📊 A Fintech Startup Customer Performance Dashboard: Trends Analysis  
 
 ## 📌 Objective  
 This project analyzes **customer transaction performance** for a fintech startup, focusing on year-on-year (YoY) transaction value and volume trends. 
