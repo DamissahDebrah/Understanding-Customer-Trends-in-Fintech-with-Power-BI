@@ -26,6 +26,8 @@ The dataset consists of customer transaction records with fields such as:
 ## 📊 Dashboard Highlights  
 
 img width="629" height="334" alt="image" src="https://github.com/user-attachments/assets/ff7ca822-5192-49e9-9331-fcd1ad5d4f25" /
+
+[Download the Interactive Power BI Dashboard](        https://github.com/DamissahDebrah/Understanding-Customer-Trends-in-Fintech-with-Power-BI/raw/refs/heads/main/YOY%20Customer%20Trend%20Analysis.pbix)
   
 
 ### 🔑 Key Metrics  
