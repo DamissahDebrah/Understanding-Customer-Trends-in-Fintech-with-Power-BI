@@ -1,5 +1,4 @@
 # Understanding-Customer-Trends-in-Fintech-with-Power-BI
-I analyzed over 7,000 fintech transactions using Power BI to uncover trends in transaction value, volume, customer behavior, and platform performance.
 # 📊 Fintech Startup Customer Performance Dashboard: Trends Analysis  
 
 ## 📌 Objective  
